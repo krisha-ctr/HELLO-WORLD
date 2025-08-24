@@ -11,4 +11,5 @@ This is my first repository on GitHub 🚀.
 - Share my learning journey here  
 
 ✨ Stay tuned for updates!
-![logo](https://github.com/user-attachments/assets/eaf89c58-35a6-4208-9110-bd2d27fc458d)
+
+![data-analysis-skills-duties-responsibilities](https://github.com/user-attachments/assets/af6d300e-666c-41fe-a8cc-023597d9b849)
